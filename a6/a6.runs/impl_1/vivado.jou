@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:19 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sat May 14 00:14:25 2022
+# Process ID: 11151
+# Current directory: /home/btech/cs1190372/col215/vivado/a6/a6.runs/impl_1
+# Command line: vivado -log bch_to_display.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source bch_to_display.tcl -notrace
+# Log file: /home/btech/cs1190372/col215/vivado/a6/a6.runs/impl_1/bch_to_display.vdi
+# Journal file: /home/btech/cs1190372/col215/vivado/a6/a6.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source bch_to_display.tcl -notrace
